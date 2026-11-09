@@ -1,0 +1,55 @@
+
+Reading: Final Project Submission Guidelines and Deliverables
+Estimated Time: 2 minutes
+
+You have completed series of labs applying key Unsupervised Machine Learning algorithms through hands-on project.
+
+In this final project you will use the tools and techniques you learned throughout this course to develop a few clustering models or dimension reduction transformations on a data set that you feel passionate about. Then, you will select the algorithm that best suits your needs, and record the insights you found.
+
+How can you submit the deliverables
+You can submit your project deliverables in one of the following ways:
+
+Option 1: AI-Graded Submission and Evaluation
+
+Complete all required tasks of the final project as instructed.
+Document and save your actions and corresponding outputs in a pdf.
+Submit the file for AI-based evaluation.
+Once submitted, you will receive automated grades instantly.
+Option 2: Peer-Graded Submission and Evaluation
+
+Complete all required tasks of the final project as instructed.
+Document and save your actions and corresponding outputs in a pdf.
+Submit the file for evaluation.
+In this option, you will receive your grades based on the evaluation from other peers.
+We recommend using Option 1 for faster grading. However, if you experience difficulties with this method or cannot access it, you may choose Option 2 instead.
+
+Note: You are required to choose only one submission option either AI-Graded or Peer-Graded, and not both, to receive grades for the final assignment.
+
+
+
+Reading: Final Project Submission Guidelines and Deliverables
+Estimated Time: 2 minutes
+
+You have completed series of labs applying key Unsupervised Machine Learning algorithms through hands-on project.
+
+In this final project you will use the tools and techniques you learned throughout this course to develop a few clustering models or dimension reduction transformations on a data set that you feel passionate about. Then, you will select the algorithm that best suits your needs, and record the insights you found.
+
+How can you submit the deliverables
+You can submit your project deliverables in one of the following ways:
+
+Option 1: AI-Graded Submission and Evaluation
+
+Complete all required tasks of the final project as instructed.
+Document and save your actions and corresponding outputs in a pdf.
+Submit the file for AI-based evaluation.
+Once submitted, you will receive automated grades instantly.
+Option 2: Peer-Graded Submission and Evaluation
+
+Complete all required tasks of the final project as instructed.
+Document and save your actions and corresponding outputs in a pdf.
+Submit the file for evaluation.
+In this option, you will receive your grades based on the evaluation from other peers.
+We recommend using Option 1 for faster grading. However, if you experience difficulties with this method or cannot access it, you may choose Option 2 instead.
+
+Note: You are required to choose only one submission option either AI-Graded or Peer-Graded, and not both, to receive grades for the final assignment.
+

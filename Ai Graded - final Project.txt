@@ -1,0 +1,5 @@
+To submit your responses for the final project, select the “I agree to use this app responsibly” checkbox, and then click the "Launch App" button. This will open the final project submission tool in a new browser tab. 
+
+This assignment submission uses "Mark", an AI grading tool from IBM Skills Network. Upon clicking "Launch App," your username and email will be passed to IBM Skills Network and will only be used for communicating important information to enhance your learning experience, in accordance with IBM Skills Network's privacy policy.
+
+This course uses a third-party app, Option 1: AI Graded - Final Project: Submission and Evaluation, to enhance your learning experience. The app will reference basic information like your name, email, and Coursera ID.

@@ -1,0 +1,44 @@
+About this assignment
+Assignment type
+Graded
+Time Limit
+Unlimited
+Estimated Time
+20 minutes
+Assignment attempts
+Unlimited
+Passing Grade
+70%
+In this assignment, you will apply the tools and techniques learned in this course to build and compare Unsupervised Learning models (clustering and/or dimensionality reduction) using a dataset you feel passionate about. The goal is not only to perform the analysis, but also to clearly communicate insightful and impactful findings to stakeholders.
+
+Treat this as an opportunity to produce a stakeholder-ready report that highlights your analytical skills for a senior audience, such as a Chief Data Officer (CDO) or Head of Analytics.
+
+
+
+What you will do
+Choose a dataset (public or course-based)
+Build and compare a few clustering models or dimensionality reduction transformations
+Select the algorithm that best meets the objective
+Communicate key insights, findings, and next steps clearly
+
+
+Sections required in your report
+Main Objective: State the goal of the analysis, specify whether the approach focuses on clustering or dimensionality reduction, and explain the benefits to stakeholders/business.
+Dataset Description: Briefly describe the dataset, summarize key attributes, and explain what the analysis aims to accomplish.
+Data Exploration & Preparation: Summarize data exploration and actions taken for data cleaning and/or feature engineering.
+Model Variations: Train and summarize at least three variations of the chosen unsupervised approach (e.g., different clustering techniques).
+Final Model Recommendation: Recommend the best model and explain why it best fits the project objectives.
+Key Findings & Insights: Present the main insights and results in a clear, well-structured way.
+Next Steps: Suggest actionable next steps, such as revisiting the model, adding new features, or exploring alternative techniques.
+
+
+How to submit
+Submit the final report as a PDF document
+Focus mainly on insights and findings (code is not required)
+Optionally include a Python notebook with supporting code
+Ensure the report can be exported/printed as a PDF before submission
+
+
+Your submission will be auto-graded by using AI tool called Mark.
+
+
