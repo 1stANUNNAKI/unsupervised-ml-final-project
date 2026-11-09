@@ -1,19 +1,36 @@
-# Unsupervised Machine Learning — Final Project & Interactive Observatory
+<div align="center">
 
-**Author / GitHub:** `1stANUNNAKI` (انـونـاكـي)  
+# 🔬 Unsupervised Machine Learning — Final Project & Interactive Observatory
+
+### **Chemometric Manifold Discovery, Clustering Benchmark & Supervised Revisit**
+
+[![🌐 Launch Interactive Project Simulation (GitHub Pages)](https://img.shields.io/badge/🚀_LAUNCH_LIVE_INTERACTIVE_SIMULATION-GitHub_Pages_(EN_%7C_AR)-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://1stanunnaki.github.io/unsupervised-ml-final-project/)
+
+[![📄 Download Final Project PDF Report](https://img.shields.io/badge/📄_Final_Project_PDF_Report-Download_(7_Pages)-6366F1?style=for-the-badge)](./Unsupervised_ML_Final_Project_Report.pdf)
+[![📘 Complete Exam & Project Guide PDF](https://img.shields.io/badge/📘_Exam_%26_Project_Guide_PDF-Download_(15%2F15_Pts)-10B981?style=for-the-badge)](./Unsupervised_ML_Complete_Exam_and_Project_Guide.pdf)
+[![🏆 Verify IBM Coursera Certificate](https://img.shields.io/badge/🏆_Official_IBM_Certificate-Verified_on_Coursera-F59E0B?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/4d5409d8cde33e4bb25b65bfb0ceb432)
+
+> **👉 [اضغط هنا لفتح موقع المحاكاة التفاعلي للمشروع على GitHub Pages (يدعم الإنجليزية والعربية)](https://1stanunnaki.github.io/unsupervised-ml-final-project/) 👈**
+
+</div>
+
+---
+
+**Author:** **Bashar Twaij** (`1stANUNNAKI` — انـونـاكـي)  
 **Course:** IBM Machine Learning Professional Certificate — *Unsupervised Machine Learning*  
-**Dataset:** UCI Wine Chemical Dataset ($N = 178$ batches, $13$ raw + $3$ engineered features = $16$ standardized dimensions)
+**Dataset:** UCI Wine Chemical Dataset ($N = 178$ batches, $13$ raw + $3$ engineered ratios = $16$ standardized dimensions)
 
 ---
 
 ## 🌐 Live Interactive Web Application (GitHub Pages)
 
-- **Interactive Observatory (English Default + Arabic RTL Toggle):**  
-  [https://1stanunnaki.github.io/unsupervised-ml-final-project/](https://1stanunnaki.github.io/unsupervised-ml-final-project/)
-- **Downloadable Stakeholder PDF Report (Question 1 — 8/8 Points):**  
-  [`Unsupervised_ML_Final_Project_Report.pdf`](./Unsupervised_ML_Final_Project_Report.pdf)
-- **Downloadable Complete Exam & Project Guide PDF (All 5 Questions — 15/15 Points):**  
-  [`Unsupervised_ML_Complete_Exam_and_Project_Guide.pdf`](./Unsupervised_ML_Complete_Exam_and_Project_Guide.pdf)
+The interactive web observatory simulates the entire Unsupervised Machine Learning workflow in real time with **English as the default language** and an instant **Arabic (RTL)** toggle:
+
+- **🔗 Live Interactive Observatory:** [https://1stanunnaki.github.io/unsupervised-ml-final-project/](https://1stanunnaki.github.io/unsupervised-ml-final-project/)
+  - **Interactive 3D PCA Manifold Canvas:** Drag-to-rotate 3D projection of all 178 chemical batches across `PC1 × PC2 × PC3` (`68.90%` variance).
+  - **2D Embedding & Clustering Workbench:** Switch dynamically between `PCA`, `t-SNE`, and `Metric MDS` projections, color-coded by `K-Means`, `Agglomerative (Complete/Ward)`, `DBSCAN`, `GMM`, or `True Cultivars`, with live sample hover chemistry inspection.
+  - **Interactive Ward Dendrogram Slicer:** Drag the horizontal cut-height slider to slice the hierarchical merge tree and inspect resulting clusters in real time.
+  - **Stakeholder Report & Exam Verification Suite:** Interactive walkthrough of all 6 rubric sections and all 5 final exam questions.
 
 ---
 
@@ -59,4 +76,18 @@
 - `Unsupervised_ML_Complete_Exam_and_Project_Guide.pdf` — 3-Page Complete Exam & Project Reference Guide PDF.
 - `Unsupervised_ML_Final_Project.ipynb` — Complete Jupyter Notebook containing all Python code and markdown analysis.
 - `run_unsupervised_pipeline.py` — Standalone reproducible Python pipeline script.
+- `certificate.png` — Official IBM & Coursera Course Completion Certificate.
 
+---
+
+## 🏆 Official Course Certificate — شهادة إتمام الدورة المعتمدة
+
+<div align="center">
+
+**Recipient:** Bashar Twaij (`1stANUNNAKI`)  
+**Course:** *Unsupervised Machine Learning* — Authorized by **IBM** and offered through **Coursera**  
+**Credential ID:** `KDB74QZTB1R4` · **Share Link:** [coursera.org/share/4d5409d8cde33e4bb25b65bfb0ceb432](https://coursera.org/share/4d5409d8cde33e4bb25b65bfb0ceb432) · **Verify:** [coursera.org/verify/KDB74QZTB1R4](https://coursera.org/verify/KDB74QZTB1R4)
+
+[![Unsupervised Machine Learning — Official IBM & Coursera Certificate (Bashar Twaij)](./certificate.png)](https://coursera.org/share/4d5409d8cde33e4bb25b65bfb0ceb432)
+
+</div>

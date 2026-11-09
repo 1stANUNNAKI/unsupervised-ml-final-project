@@ -27,3 +27,13 @@
   - `Unsupervised_ML_Complete_Exam_and_Project_Guide.pdf`: 3 صفحات، خالية من أي تداخل، وتتضمن جميع إجابات الأسئلة الخمسة.
 - **التحقق الأمني (`@sareem-security`):** `SECURITY: PASS` — لا توجد أي مفاتيح سرية مضمنة في الكود المصدري، وتم استخدام بيانات علمية عامة ومفتوحة المصدر.
 
+
+
+---
+
+## [2026-11-09 08:28:00 +03:00] — إضافة شهادة IBM & Coursera المعتمدة وتحديث زر المحاكاة التفاعلية في README.md
+
+### 📂 التحديثات المنفذة
+- جلب وحفظ الصورة الرسمية للشهادة المعتمدة (`certificate.png`) من رابط Coursera الرسمي (`https://coursera.org/share/4d5409d8cde33e4bb25b65bfb0ceb432` — Credential ID: `KDB74QZTB1R4`).
+- تحديث أعلى ملف `README.md` بزر واضح وبارز لزيارة موقع المحاكاة التفاعلي على GitHub Pages (`https://1stanunnaki.github.io/unsupervised-ml-final-project/`).
+- إضافة قسم الشهادة المعتمدة (`Official Course Certificate`) مع عرض صورة الشهادة وروابط التحقق المباشرة في أسفل `README.md` وفي صفحة `index.html`.
